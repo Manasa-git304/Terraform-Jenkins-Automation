@@ -18,7 +18,7 @@ pipeline {
                 script {
                     dir('terraform') {
                         git branch: 'main',
-                            url: 'https://github.com/JayaShreeCloudTechnology/Terraform-Jenkins-Automation.git'
+                            url: 'https://github.com/Manasa-git304/Terraform-Jenkins-Automation.git'
                     }
                 }
             }
